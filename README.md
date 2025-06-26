@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on rockstar games
 - 📫 How to reach me use my phone number
-- 😄 Pronouns: 
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: extrovert
 
 <!---
