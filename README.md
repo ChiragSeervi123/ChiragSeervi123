@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChiragSeervi123
 - 👀 I’m interested in gaming mechanics
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on rockstar games
+- 💞️ I’m looking to collaborate with rockstar games
 - 📫 How to reach me use my phone number
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: extrovert
